@@ -1,0 +1,16 @@
+package d1;
+import java.util.Scanner;
+public class main3 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		//applichiamo lo scanner per far inserire all'utente quello che vuole
+		Scanner input = new Scanner(System.in);
+		String[] stringhe = new String[3];
+		
+		
+
+	}
+
+}
